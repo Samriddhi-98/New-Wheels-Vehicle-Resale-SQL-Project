@@ -55,3 +55,5 @@ Sales have been declining, and customer feedback is critical. The CEO requires a
 #### Feedback and Performance
 * customer_feedback: Feedback of the customer
 * quarter_number: Quarter Number
+
+### Data Analysis: 
