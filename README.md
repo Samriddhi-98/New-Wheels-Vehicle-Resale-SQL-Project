@@ -75,10 +75,10 @@ Sales have been declining, and customer feedback is critical. The CEO requires a
   - **Improvement Areas:** Q3 and Q4 saw a drop in top ratings and an increase in negative feedback, pointing to areas that may need attention.
 
  * The top 5 vehicle makers preferred by the customer:
-  - **Chevrolet Leads:** Chevrolet emerges as the most preferred vehicle maker, favored by **83 customers**.
-  - **Strong Domestic Presence:** Ford, Pontiac, and Dodge maintain a solid customer base, indicating preference for American brands.
-  - **Global Appeal:** Toyota ranks among the top five, showcasing strong demand for its vehicles.
-  - **Close Competition:** Pontiac and Dodge tie at **50 customers**, making them competitive choices among consumers.
+   - **Chevrolet Leads:** Chevrolet emerges as the most preferred vehicle maker, favored by **83 customers**.
+   - **Strong Domestic Presence:** Ford, Pontiac, and Dodge maintain a solid customer base, indicating preference for American brands.
+   - **Global Appeal:** Toyota ranks among the top five, showcasing strong demand for its vehicles.
+   - **Close Competition:** Pontiac and Dodge tie at **50 customers**, making them competitive choices among consumers.
 
 #### Related to Revenue and Orders: 
 * The trend of number of orders by quarters:
