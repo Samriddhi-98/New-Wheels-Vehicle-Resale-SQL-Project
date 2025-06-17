@@ -56,7 +56,7 @@ Sales have been declining, and customer feedback is critical. The CEO requires a
 * customer_feedback: Feedback of the customer
 * quarter_number: Quarter Number
 
-### Data Analysis: 
+### Analysis Insights: 
 #### Customer related analysis:
 * The distribution of customers across states: 
   - **Highest Customer Concentration:** California and Texas lead the count with 97 customers each.
