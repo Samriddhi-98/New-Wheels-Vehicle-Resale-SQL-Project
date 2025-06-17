@@ -1,4 +1,6 @@
 # New-Wheels-Vehicle-Resale-SQL-Project
+![Copilot_20250617_234308](https://github.com/user-attachments/assets/b9d52acb-7fb1-4ee2-9ae0-a960c7f77906)
+
 
 ### Objective: 
 To create a quarterly business report by importing data from the database and answering key leadership questions using data analysis.
